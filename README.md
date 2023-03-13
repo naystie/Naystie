@@ -1,20 +1,13 @@
- <div align="center">
-<img width="100%" src= "https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=F7F7F7&center=true&width=435&lines=Hi!+I%27m+Naystie.;Welcome+to+my+profile+%3A);I+like+to+learn+new+things">
-</div>
 
-<div align="center">
-   <img width="15%" src="https://komarev.com/ghpvc/?username=naystie&color=191717">
-</div>
-
-#
-
-<p align="center">
+![](https://raw.githubusercontent.com/Naystie/Naystie/main/NaysTie_Banner.gif)
+ 
+ ##
+ 
+ <p align="center">
  <a href="https://discord.com/users/344871509677965313" target"blank_"><img width="19%" src="https://img.shields.io/badge/Discord%20-191717.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
   <a href="https://github.com/naystie" target"blank_"><img width="17%" src="https://img.shields.io/badge/GitHub%20-191717.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
   <a href="https://open.spotify.com/user/31lmzhpy2migtudcggvvnrrth73y?si=ab96304453d248fa" target"blank_"><img width="18%" src="https://img.shields.io/badge/Spotify%20-191717.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
  <a href="https://steamcommunity.com/id/naystie" target"blank_"><img width="16%" src="https://img.shields.io/badge/steam%20-191717.svg?&style=for-the-badge&logo=steam&logoColor=white"></a>
-
-![](https://raw.githubusercontent.com/Naystie/Naystie/main/NaysTie_Banner.gif)
 
 ## 
 
