@@ -23,11 +23,3 @@
    <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
    <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
    <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
-
-
-#
-
-
-<div align="center">
-<img width="80%" src="https://github-readme-streak-stats.herokuapp.com?user=naystie&theme=dark&hide_border=true&stroke=ffffff&fire=ffffff&currStreakNum=DDDDDD&currStreakLabel=ffffff&ring=ffffff&background=DD272700">
-</div>
