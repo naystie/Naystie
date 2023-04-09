@@ -1,8 +1,7 @@
 
 ![](https://raw.githubusercontent.com/Naystie/Naystie/main/NaysTie_Banner.gif)
  
- ##
- 
+ # 
  <p align="center">
  <a href="https://discord.com/users/344871509677965313" target"blank_"><img width="19%" src="https://img.shields.io/badge/Discord%20-191717.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
   <a href="https://github.com/naystie" target"blank_"><img width="17%" src="https://img.shields.io/badge/GitHub%20-191717.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
@@ -12,7 +11,7 @@
 ## 
 
 <div align="center" >
- <a href="https://discord.com/users/344871509677965313" title="Discord Profile"><img src="https://lanyard-profile-readme.vercel.app/api/344871509677965313?&borderRadius=5px"> 
+ <a href="https://discord.com/users/344871509677965313" title="Discord Profile"><img src="https://lanyard-profile-readme.vercel.app/api/344871509677965313?&borderRadius=20px"> 
 </div>
 
 ## Languages and Tools:
