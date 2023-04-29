@@ -5,7 +5,7 @@
  <p align="center">
  <a href="https://discord.com/users/344871509677965313" target"blank_"><img width="19%" src="https://img.shields.io/badge/Discord%20-191717.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
   <a href="https://github.com/naystie" target"blank_"><img width="17%" src="https://img.shields.io/badge/GitHub%20-191717.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://open.spotify.com/user/31lmzhpy2migtudcggvvnrrth73y?si=ab96304453d248fa" target"blank_"><img width="18%" src="https://img.shields.io/badge/Spotify%20-191717.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
+  <a href="https://open.spotify.com/user/106b03daoa7mdvqii2z8f7o5x?si=b7ab2b05b5aa436a" target"blank_"><img width="18%" src="https://img.shields.io/badge/Spotify%20-191717.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
  <a href="https://steamcommunity.com/id/naystie" target"blank_"><img width="16%" src="https://img.shields.io/badge/steam%20-191717.svg?&style=for-the-badge&logo=steam&logoColor=white"></a>
 
 ## 
